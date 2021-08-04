@@ -1,0 +1,6 @@
+Delete this line and type your accounts in this format email or user:password
+email:password
+user:password
+user:password
+email:password
+email:password
