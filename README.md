@@ -1,7 +1,7 @@
 # Insta-Comments
 ### A simple program to increase your account activity by automatically commenting to different posts
 
-I can't upload the program file here because it is more than 25MB. You can download it from here >> 
+I can't upload the program file here because it is more than 25MB. You can download it from here :
 #### https://mega.nz/file/2VgnRSjb#Cxg6Crq_2PoPHzhVOIc5tLa9_CosPWotfLQNI7eMJ0E
 You can check it from viruses if you want using https://www.virustotal.com/ or your favourite website to check programs.
 
